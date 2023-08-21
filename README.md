@@ -86,3 +86,6 @@ location ~ \.php$ {
 </p>
 <br>
 
+
+![Screenshot 2023-08-21 at 19-06-07 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/693da020-f728-4d87-907c-a3d0cd3e6616)
+
