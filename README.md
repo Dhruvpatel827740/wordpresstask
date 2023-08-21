@@ -69,22 +69,13 @@ location ~ \.php$ {
 
 ## Screenshots
 
-<p align="center">
-  <img width="960" alt="wp-2" src="!![Screenshot 2023-08-21 at 19-06-07 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/693da020-f728-4d87-907c-a3d0cd3e6616)">
-</p>
-<br>
 
 
-<p align="center">
-  <img width="960" alt="wp-2" src="![Screenshot 2023-08-21 at 19-04-50 Dashboard ‹ Brainstorm — WordPress](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/507e2dfe-8a35-433b-b240-158d7e82a47d)">
-</p>
-<br>
 
 
-<p align="center">
-  <img width="960" alt="wp-2" src="![Screenshot 2023-08-21 at 19-06-07 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/c8a59f39-db65-4777-8a78-342357219c09)">
-</p>
-<br>
+![Screenshot 2023-08-21 at 19-06-07 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f18ee7dc-5d46-4cac-b8ce-5d3048a781c2)
+![Screenshot 2023-08-21 at 19-04-11 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f7333f7d-a2fd-425d-9c46-ac6ffe79fef0)
+![Screenshot 2023-08-21 at 19-04-50 Dashboard ‹ Brainstorm — WordPress](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/322a4092-69a3-48dc-b071-657d7af8004f)
 
 
 
