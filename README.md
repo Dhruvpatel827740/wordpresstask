@@ -69,15 +69,23 @@ location ~ \.php$ {
 
 ## Screenshots
 
-
-
-
-
-![Screenshot 2023-08-21 at 19-06-07 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f18ee7dc-5d46-4cac-b8ce-5d3048a781c2)
-![Screenshot 2023-08-21 at 19-04-11 EC2 Instance Connect](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f7333f7d-a2fd-425d-9c46-ac6ffe79fef0)
-![Screenshot 2023-08-21 at 19-04-50 Dashboard ‹ Brainstorm — WordPress](https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/322a4092-69a3-48dc-b071-657d7af8004f)
-
-
 <p align="center">
   <img width="960" alt="wp-6" src="https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f18ee7dc-5d46-4cac-b8ce-5d3048a781c2">
 </p>
+
+
+<br>
+
+<p align="center">
+  <img width="960" alt="wp-6" src="https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f7333f7d-a2fd-425d-9c46-ac6ffe79fef0">
+</p>
+
+
+<br>
+
+<p align="center">
+  <img width="960" alt="wp-6" src="https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/322a4092-69a3-48dc-b071-657d7af8004f">
+</p>
+
+
+<br>
