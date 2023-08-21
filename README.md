@@ -76,6 +76,7 @@ location ~ \.php$ {
 
 <br>
 
+
 <p align="center">
   <img width="960" alt="wp-6" src="https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/f7333f7d-a2fd-425d-9c46-ac6ffe79fef0">
 </p>
@@ -83,9 +84,12 @@ location ~ \.php$ {
 
 <br>
 
+
 <p align="center">
   <img width="960" alt="wp-6" src="https://github.com/Dhruvpatel827740/wordpresstask/assets/125884129/322a4092-69a3-48dc-b071-657d7af8004f">
 </p>
 
 
+
 <br>
+
